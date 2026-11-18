@@ -21,3 +21,13 @@ nav a {
     text-decoration: none;
     margin: 15px;
 }
+main {
+    padding: 20px;
+}
+
+section {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
