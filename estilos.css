@@ -10,3 +10,14 @@ header {
     text-align: center;
     padding: 20px;
 }
+nav {
+    text-align: center;
+    padding: 15px;
+    background-color: #444;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+}
